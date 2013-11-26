@@ -1,0 +1,1 @@
+An attempt to diff Cooper's current and proposed Code of Conduct documents.
